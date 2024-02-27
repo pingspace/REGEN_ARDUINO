@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "REGEN_ARDUINO.ino"
+    "sketch": "REGEN_ARDUINO.ino",
+    "port": "/dev/ttyACM0"
 }
